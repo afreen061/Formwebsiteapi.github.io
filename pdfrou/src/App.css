@@ -1,0 +1,56 @@
+#root{
+  height: 500px;
+}
+.part{
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
+ 
+ 
+}
+form{
+
+  background-color:  #60a9ff;
+  margin-bottom: 4px;
+  padding-top: 9px;
+  padding-left: 60px;
+  padding-right: 60px;
+  border-radius: 5%;
+  width:435px ;
+  max-height: 670px;
+}
+.first,legend{
+  color: white;
+  font-weight: 700;
+}
+#textt{
+  display: flex;
+  justify-content: center;
+align-content: flex-start;
+  margin-top: 0%;
+  padding-top: 0%;
+  position: relative;
+  top: 0;
+}
+.form-error {
+  font-size:10px;
+  color: #b22b27;
+text-align: right;
+font-weight: 500;
+height: 0;
+}
+button{
+  margin-bottom: 10px;
+  background-color: white;
+  border-color: white;
+  border-radius: 9px;
+  text-align: center;
+  padding: 5px;
+  width: 90px;
+  height: 40px;
+  color: gray;
+  display: flex;
+  justify-content: center;
+
+  
+}

@@ -1,0 +1,31 @@
+{
+    "folders": [
+		{
+			"path": "../../../firstproject"
+		},
+		{
+			"path": "../Desktop/web development"
+		},
+		{
+			"path": "../Desktop/c"
+		},
+		{
+			"path": "../Desktop/c++"
+		},
+		{
+			"path": "../Desktop/javanew"
+		},
+		{
+			"path": "../Desktop/java"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../server"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "web development"
+    }
+}
